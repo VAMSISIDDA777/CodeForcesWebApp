@@ -1,0 +1,47 @@
+.header{
+  background-color:black;
+  color:white;
+  height: 100px;
+  font-family: fantasy;
+}
+.cfimg{
+  padding-top: 20px;
+  padding-left:30px;
+}
+
+.func{
+  background:lightskyblue;
+  padding: 20px;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+#data{
+  background-color: lightgoldenrodyellow;
+  border-radius: 10px;
+  padding-left: 20px;
+  width: 700px;
+  font-family: sans-serif;
+}
+.inp{
+  background-color: lightcoral;
+  border-color: lightcoral; 
+}
+.urname{
+  margin-top:20px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 10px;
+  padding-left: 20px;
+  width: 700px;
+  font-family: sans-serif;
+}
+.usa{
+  margin-top:20px;
+  background-color: lightcoral;
+  border-radius: 10px;
+  padding-left: 20px;
+  width: 700px;
+  margin-left: 500px;
+  font-family: sans-serif;
+}
