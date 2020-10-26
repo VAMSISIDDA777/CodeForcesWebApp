@@ -3,6 +3,11 @@ A web App for finding programs based on the user input tags
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/72602927/96442723-352c8000-1229-11eb-85c7-b68ecef1c811.png)
 
+# Teammates :
+ ## 1.Surya Teja Thumarada (18PA1A05G1)
+ ## 2.Sai Lokesh Samudrala (18PA1A05E0)
+ ## 3.Durga Kishore Talluri (18PA1A05F5)
+ 
 ## Objective of our Bot
  * This is a ChatBot which helps in finding Programs based on the Users input Tags.
  * And responds with a random sequence of 10 programs from the website codeforces.com followed by their respective Links.
