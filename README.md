@@ -10,8 +10,8 @@ A web App for finding programs based on the user input tags
  By using this Web App you can easily find the required programs bases on the tags.In this way you are a bit close to Coding.
  
 ## References :
- * ![Bootstrap.css](https://getbootstrap.com/)
- *  ![w3schools](https://www.w3schools.com/js/)
+ * [Bootstrap.css](https://getbootstrap.com/)
+ * [w3schools](https://www.w3schools.com/js/)
  
 ## Repel Link:
 
